@@ -1,3 +1,8 @@
+//Missing Values
+/*Given an array, find the maximum and minimum value in the array
+and also find the values in range minimum and maximum that are absent in the
+array.*/
+
 package problems;
 public class FindMaxMinEle 
 {
